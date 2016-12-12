@@ -9,4 +9,5 @@ public class ExtremTreasureHuntApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ExtremTreasureHuntApplication.class, args);
 	}
+
 }
